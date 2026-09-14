@@ -1,0 +1,20 @@
+# zapretdiscord
+
+> Обновлённая версия для Discord в текущих условиях. Стабильнее, надежнее, быстрее
+
+zapretdiscord чинит обрыв до голосовых серверов Discord. Распаковали архив, запустили .bat от администратора — звонки снова идут.
+
+## Страницы
+- Сайт: https://geomancerpavilion.github.io/zapretdiscord/
+- Релиз: https://github.com/GeomancerPavilion/zapretdiscord/releases/latest
+- Исходный код: https://github.com/GeomancerPavilion/zapretdiscord
+- Движок: https://github.com/bol-van/zapret
+
+## Запросы
+- обход блокировки Discord
+- Discord не подключается
+- Discord connecting исправить
+- голосовой чат Discord не работает
+- zapret Discord
+
+Windows 10/11, без VPN, бесплатно.
